@@ -1,3 +1,3 @@
-<h1>Foodies</h1>
-<h2>• Developed a platform to facilitate ordering between restaurants and buyers.</h2></br>
-<h2>• Utilized HTML and CSS for the frontend.</h2>
+<h1>Foodies</h1></br>
+• Developed a platform to facilitate ordering between restaurants and buyers.</br>
+• Utilized HTML and CSS for the frontend.
